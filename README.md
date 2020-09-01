@@ -4,7 +4,7 @@ Fake news is the deliberate spread of misinformation via traditional news media 
 Due to the exponential growth of information online, it is becoming impossible to decipher the true from the false. Thus, this leads to the problem of fake news.
 Aim of this project is to create technology solutions to tackel the above problem
 
-##Contributor
+## Contributor
 
 1. Arnesh Bhattacharya
 2. Biswajit Saha
