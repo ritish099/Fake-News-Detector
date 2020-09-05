@@ -5,7 +5,7 @@ import re
 pat = re.compile("\d+.*"+'.txt')
 
 path = '/Users/tithighosh/Library/Application Support/AirDroid/Downloads/article_data 2'
-data=pd.read_csv('data_processed.csv', index_col=0)
+data=pd.read_csv('data.csv', index_col=0)
 
 for lab, row in data.iterrows():
     
@@ -19,5 +19,5 @@ for lab, row in data.iterrows():
         
     data.loc[lab, 'Text'] = content
 
-#data.to_csv('fake_news_dataset.csv')
+data.to_csv('fake_news_dataset.csv')
      
