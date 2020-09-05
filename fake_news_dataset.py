@@ -1,8 +1,5 @@
 import pandas as pd
 import os
-import re
-
-pat = re.compile("\d+.*"+'.txt')
 
 path = '/Users/tithighosh/Library/Application Support/AirDroid/Downloads/article_data 2'
 data=pd.read_csv('data.csv', index_col=0)
