@@ -6,8 +6,5 @@ Aim of this project is to create technology solutions to tackel the above proble
 
 ## Contributor
 
-1. Arnesh Bhattacharya
-2. Biswajit Saha
-3. Ritish Singh
-4. Tithi Ghosh
-5. Souraprabha Ganguly
+1. Ritish Singh
+2. Tithi Ghosh
