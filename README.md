@@ -12,6 +12,8 @@ Aim of this project is to create technology solutions to tackel the above proble
 
 ## ScreenShot
 
+<img src="https://user-images.githubusercontent.com/54978105/100543656-5eecb400-3277-11eb-916b-b6a829d91082.jpg" width="200" height="200" />
+
 ![Screenshot_20201129-191239_FND](https://user-images.githubusercontent.com/54978105/100543656-5eecb400-3277-11eb-916b-b6a829d91082.jpg)
 
 
