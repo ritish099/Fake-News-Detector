@@ -6,8 +6,20 @@ Aim of this project is to create technology solutions to tackel the above proble
 
 ## Contributor
 
-1. Arnesh Bhattacharya
-2. Biswajit Saha
-3. Ritish Singh
-4. Tithi Ghosh
-5. Souraprabha Ganguly
+1. Ritish Singh (Android Development)
+2. Tithi Ghosh (Machine Learning)
+
+
+## ScreenShot
+
+<img src="https://user-images.githubusercontent.com/54978105/100543656-5eecb400-3277-11eb-916b-b6a829d91082.jpg" width="450" height="900" />
+
+
+
+<img src="https://user-images.githubusercontent.com/54978105/100543669-6b710c80-3277-11eb-80b7-652defa7e83e.jpg" width="450" height="900" />
+
+
+
+<img src="https://user-images.githubusercontent.com/54978105/100543677-762ba180-3277-11eb-9100-a3cf55980b9d.jpg" width="450" height="900" />
+
+

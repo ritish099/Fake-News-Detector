@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome to Fake News Detector"
+        android:fontFamily="@font/cagliostro"
+        android:textAllCaps="false"
+        android:textColor="#000"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Paste News below to check its authenticity"
+        android:layout_below="@id/title"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="20dp"
+        android:textColor="#000"
+        android:textSize="15sp"
+        android:textStyle="bold"/>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/textField"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColorHint="#000"
+        android:layout_below="@id/description"
+        android:layout_margin="20dp">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/news_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="top|left"
+            android:hint="Paste News here"
+            android:minLines="8"/>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/check"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textField"
+        android:layout_marginLeft="20dp"
+        android:text="Check Authenticity"/>
+
+    <ImageView
+        android:id="@+id/circel"
+        android:layout_width="290dp"
+        android:layout_height="290dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="-80dp"
+        android:layout_marginLeft="-50dp"
+        android:src="@drawable/circel1" />
+
+    <ImageView
+        android:id="@+id/circel2"
+        android:layout_width="230dp"
+        android:layout_height="230dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="-50dp"
+        android:layout_marginRight="-20dp"
+        android:src="@drawable/circel2" />
+
+</RelativeLayout>

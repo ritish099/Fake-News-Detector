@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "304386834888",
+    "firebase_url": "https://fake-news-detector-420d7.firebaseio.com",
+    "project_id": "fake-news-detector-420d7",
+    "storage_bucket": "fake-news-detector-420d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304386834888:android:f79b41ced62164bd2480fd",
+        "android_client_info": {
+          "package_name": "com.example.fnd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304386834888-es1d08nseovvff4nslddff72ti4k8ba2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyConjmd3ttwGgxH4B8024v7YqA9MeNC4xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304386834888-es1d08nseovvff4nslddff72ti4k8ba2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
